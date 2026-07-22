@@ -1,5 +1,8 @@
 # Changelog
 
+## Next
+- Fix title not filling up entire width
+
 ## 2.0.3 - 2026 Apr 16
 - Fix exports map
 

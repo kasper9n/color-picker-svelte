@@ -176,6 +176,7 @@
       box-shadow: 0px 0px 0px 3px rgba(2, 105, 247, 0.4)
   .text
     position: relative
+    flex-grow: 1
   .title
     position: absolute
     top: 0px
