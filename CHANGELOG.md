@@ -1,6 +1,6 @@
 # Changelog
 
-## Next
+## 2.0.4 - 2026 Jul 22
 - Fix title not filling up entire width
 
 ## 2.0.3 - 2026 Apr 16

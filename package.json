@@ -1,6 +1,6 @@
 {
   "name": "color-picker-svelte",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Color picker for Svelte",
   "type": "module",
   "scripts": {
