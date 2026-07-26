@@ -43,10 +43,10 @@
   "homepage": "https://color-picker-svelte.kasper.space",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/probablykasper/color-picker-svelte.git"
+    "url": "git+https://github.com/kasper9n/color-picker-svelte.git"
   },
   "bugs": {
-    "url": "https://github.com/probablykasper/color-picker-svelte/issues"
+    "url": "https://github.com/kasper9n/color-picker-svelte/issues"
   },
   "author": {
     "name": "Kasper Henningsen",

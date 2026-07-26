@@ -26,7 +26,7 @@
 
 <div class="center">
   <nav>
-    <a href="https://github.com/probablykasper/color-picker-svelte">GitHub</a>
+    <a href="https://github.com/kasper9n/color-picker-svelte">GitHub</a>
     <a href="https://npmjs.com/package/color-picker-svelte">npm</a>
     <a href="https://svelte.dev/repl/8b00804d417b4fe89f42f90d6ed485e7?version=3.49.0">REPL</a>
   </nav>

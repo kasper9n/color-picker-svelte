@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/npm/v/color-picker-svelte.svg)](https://npmjs.com/package/color-picker-svelte)
 [![License](https://img.shields.io/npm/l/color-picker-svelte.svg)](LICENSE)
 [![NPM Downloads](https://img.shields.io/npm/dm/color-picker-svelte.svg)](https://npmjs.com/package/color-picker-svelte)
-[![test](https://github.com/probablykasper/color-picker-svelte/actions/workflows/test.yml/badge.svg)](https://github.com/probablykasper/color-picker-svelte/actions/workflows/test.yml)
+[![test](https://github.com/kasper9n/color-picker-svelte/actions/workflows/test.yml/badge.svg)](https://github.com/kasper9n/color-picker-svelte/actions/workflows/test.yml)
 
 Color picker for Svelte
 
