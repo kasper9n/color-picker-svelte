@@ -47,6 +47,12 @@
   })
 
   $effect(() => {
+    if (disabled && isOpen) {
+      isOpen = false
+    }
+  })
+
+  $effect(() => {
     if (
       color.h !== lastColor.h ||
       color.s !== lastColor.s ||
